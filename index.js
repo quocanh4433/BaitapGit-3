@@ -9,3 +9,6 @@ console.log('Bài tập buổi 2')
 
 // Buoi 3
 console.log('Bài tập buổi 3')
+
+// Done buoi 3
+console.log('Done bài tập buổi 3')
